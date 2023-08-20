@@ -8,6 +8,7 @@ const nextConfig = {
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
+  exportTrailingSlash: true
 };
 
 module.exports = nextConfig;
